@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fitas_Fabrica
+namespace Fitas_Fabrica.Models
 {
-    class Pessoa
+    class Aderente : Fita 
     {
+        public string cpf { get; set }
     }
 }
