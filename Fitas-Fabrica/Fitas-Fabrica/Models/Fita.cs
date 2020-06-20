@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fitas_Fabrica.Models
 {
-    class Fita
+    public class Fita
     {
         public string cor { get; set }
         public double comprimento { get; set; }

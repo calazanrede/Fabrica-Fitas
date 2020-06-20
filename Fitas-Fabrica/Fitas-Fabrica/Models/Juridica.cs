@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fitas_Fabrica.Models
 {
-    class Juridica : Pessoa
+    public class Juridica : Pessoa
     {
         public string cnpj { get; set }
         public string razaoSocial { get; set; }

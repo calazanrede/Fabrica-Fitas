@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fitas_Fabrica.Models
 {
-    class Nao_adesiva : Fita
+    public class NaoAdesiva : Fita
     {
         public bool fitaEnfeite {get;set }
 

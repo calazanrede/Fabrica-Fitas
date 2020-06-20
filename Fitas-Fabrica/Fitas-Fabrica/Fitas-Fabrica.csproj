@@ -47,7 +47,7 @@
     <Compile Include="Models\Fisica.cs" />
     <Compile Include="Models\Fita.cs" />
     <Compile Include="Models\Juridica.cs" />
-    <Compile Include="Models\Nao-adesiva.cs" />
+    <Compile Include="Models\NaoAdesiva.cs" />
     <Compile Include="Models\Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

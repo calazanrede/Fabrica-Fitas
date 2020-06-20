@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fitas_Fabrica.Models
 {
-    class Adesiva : Fita 
+    public class Adesiva : Fita 
     {
         public bool duplaFace { get; set }
         public string aderencia { get;set }
