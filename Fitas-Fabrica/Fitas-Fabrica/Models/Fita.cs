@@ -11,6 +11,8 @@ namespace Fitas_Fabrica.Models
         public string cor { get; set }
         public double comprimento { get; set; }
         public double largura { get; set; }
+
+        public double expessura {get; set }
         
     }
 }
