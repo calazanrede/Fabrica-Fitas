@@ -8,7 +8,7 @@ namespace Fitas_Fabrica.Models
 {
     public class Adesiva : Fita 
     {
-        public bool duplaFace { get; set }
-        public string aderencia { get;set }
+        public bool duplaFace { get; set; }
+        public string aderencia { get; set; }
     }
 }

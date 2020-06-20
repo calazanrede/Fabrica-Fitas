@@ -8,7 +8,7 @@ namespace Fitas_Fabrica.Models
 {
     public class NaoAdesiva : Fita
     {
-        public bool fitaEnfeite {get;set }
+        public bool fitaEnfeite { get; set; }
 
     }
 }
