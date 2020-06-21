@@ -115,7 +115,7 @@ namespace Fitas_Fabrica
             string tipo;
             Console.WriteLine("Deseja fita Adesiva, ou não adesiva? adesiva/naoadesiva");
             tipo = Console.ReadLine();
-            while ((tipo != "adesiva") && (r != "naoadesiva"))
+            while ((tipo != "adesiva") && (tipo != "naoadesiva"))
             {
                 Console.WriteLine("Valor inválido, digite novamente ");
                 tipo = Console.ReadLine();
