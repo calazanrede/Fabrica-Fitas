@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arquivo\ArquivoPessoa.cs" />
+    <Compile Include="Arquivo\Leitura.cs" />
     <Compile Include="Models\Adesiva.cs" />
     <Compile Include="Models\Fisica.cs" />
     <Compile Include="Models\Fita.cs" />
