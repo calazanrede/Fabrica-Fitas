@@ -90,9 +90,6 @@ namespace Fitas_Fabrica
                 pessoa.cpf = (Console.ReadLine());
                 ArquivoPessoa.addText("cpf: " + pessoa.nomePessoa);
 
-                Console.WriteLine("Digite o nome do cliente: ");
-                pessoa.nomePessoa = (Console.ReadLine());
-                ArquivoPessoa.addText("Nome: " + pessoa.nomePessoa);
 
                 Console.WriteLine("Digite o numero do cliente: ");
                 pessoa.numeroPessoa = (Console.ReadLine());
